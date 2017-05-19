@@ -1,0 +1,5 @@
+store user info in this file
+NAME        AGE         GENDER      ADDRESS
+Account01   22          MALE        ChengDu
+Account02   26          FEMALE      ChongQing
+
